@@ -13,7 +13,7 @@ A proposta é consolidar o aprendizado para criar uma base sólida em desenvolvi
 - Adotar boas práticas de organização de código.
 - Testar e publicar o app no emulador.
 
-##️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Flutter
 
